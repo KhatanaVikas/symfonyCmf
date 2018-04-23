@@ -1,0 +1,5 @@
+<type xmlns:schema="http://schema.org/" typeof="schema:WebPage">
+    <children>
+        <property property="schema:title" identifier="title"/>
+    </children>
+</type>
